@@ -27,7 +27,7 @@
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
         "value": "",
-        "required": tru
+        "required": true
       },
      "CMD_HNDLR": {
             "description": "Custom command handler.",
