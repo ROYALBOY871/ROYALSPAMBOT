@@ -1,0 +1,5 @@
+build:
+  docker:
+    Royaluser: Dockerfile
+run:
+  Royaluser: python3 -m Godfather
