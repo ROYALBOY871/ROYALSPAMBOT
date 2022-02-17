@@ -1,7 +1,7 @@
 
 {
     "name": "Royal Spam Bot",
-    "description: "BAAP OF SPAMERS + STABLE + LIGHT BOT",
+    "description: "Baap of spamers + light Bot",
     "logo": "",
     "keywords": [
         "telegram",
@@ -27,7 +27,7 @@
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
         "value": "",
-        "required": true
+        "required": tru
       },
      "CMD_HNDLR": {
             "description": "Custom command handler.",
