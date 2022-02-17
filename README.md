@@ -5,6 +5,6 @@ POWERED BY - RMW NETWORK ❤️
 <b> 『ROYALBOT』⚔️ </b>
 </h1>
 
-[![ROYALBOT](https://telegra.ph/file/07b8bf2e56dc4b75be9b6.jpg)](https://github.com/ROYALBOY871/gitin)
+[![ROYALBOT](https://te.legra.ph/file/a4b60194f41fb27d1f563.jpg)](https://github.com/ROYALBOY871/gitin)
 
 <h6 align="center">
